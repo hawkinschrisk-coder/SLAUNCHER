@@ -1,5 +1,5 @@
 
-# Zalith Launcher 2+ (PLUS)
+# Slauncher
 
 > **⚠️ UNOFFICIAL MODIFIED VERSION**
 > 
